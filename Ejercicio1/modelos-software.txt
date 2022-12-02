@@ -1,4 +1,4 @@
--analisis
--programación
--implementación
--documentación
+-cascade
+-iterativo incremental
+-agile
+-kanban
