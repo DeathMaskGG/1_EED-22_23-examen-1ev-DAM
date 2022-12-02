@@ -1,4 +1,1 @@
--cascade
 -iterativo incremental
--agile
--kanban
